@@ -1,0 +1,9 @@
+/home/siddhs/Code/ML/YOLO_data/obj12_0_3.jpg
+/home/siddhs/Code/ML/YOLO_data/obj13_1_0.jpg
+/home/siddhs/Code/ML/YOLO_data/obj14_0_3.jpg
+/home/siddhs/Code/ML/YOLO_data/obj17_1_5.jpg
+/home/siddhs/Code/ML/YOLO_data/obj18_2_15.jpg
+/home/siddhs/Code/ML/YOLO_data/obj2_1_0.jpg
+/home/siddhs/Code/ML/YOLO_data/obj4_1_5.jpg
+/home/siddhs/Code/ML/YOLO_data/obj6_15_1.jpg
+/home/siddhs/Code/ML/YOLO_data/obj9_0_3.jpg
